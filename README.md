@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img src="/src-ctrl/src-ctrl/raw/main/img/logos/php.svg" alt="PHP" style="width:40px;height:40px;">
+
 ![PHP](./img/logos/php.svg)
 
 <!--
