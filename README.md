@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/src-ctrl/src-ctrl/main/img/logos/php.svg" alt="PHP" style="width:40px;height:40px;">
+<img src="img/logos/php.svg" alt="PHP" width="40" height="40">
 
 ![PHP](./img/logos/php.svg)
 
