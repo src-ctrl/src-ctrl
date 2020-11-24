@@ -1,5 +1,5 @@
 ### Hi there 👋
-![PHP](./php.svg)
+![PHP](./php.svg =28x28)
 
 <!--
 **src-ctrl/src-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
