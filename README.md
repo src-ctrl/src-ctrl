@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="img/logos/php.svg" alt="PHP" width="28" height="28">
-<img src="img/logos/azure.svg" alt="Azure" width="28" height="28">
+<img src="img/logos/php.svg" alt="PHP" width="28" height="28" align="left">
+<img src="img/logos/azure.svg" alt="Azure" width="28" height="28" align="left">
 
 <!--
 **src-ctrl/src-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
